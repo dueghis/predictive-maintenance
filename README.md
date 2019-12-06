@@ -1,2 +1,2 @@
 # predictive-maintenance
-Amazon interview problem
+Interview problem example
